@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sudharshan Reddy Chennupalle
-- 👀 I’m interested in Blockchain, Cyber Security and Microservices
-- 🌱 I’m currently learning ...Spring Boot, and Microservices 
-- 💞️ I’m looking to work in .... web3 projects
+- 👀 I’m interested in AI and Cyber Security
+- 🌱 I’m currently learning ...AI
+- 💞️ I’m looking to work in .... AI and Cybersecurity projects
 - 📫 How to reach me --> @SChennupalle - Twitter
 - 📫 How to reach me --> sudharshan32 - Linkedin
 <!---
